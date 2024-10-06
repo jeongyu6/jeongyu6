@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeong Yuseon
-====================================================================================================================================
-
 👧🏻About Me
 ====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeong Yuseon
 
 🎓I am a second-year Software Engineering Specialist, Math Major and Statistics at University of Toronto passionate in the field of Software Engineering, Data Science and Machine Learning 
 
