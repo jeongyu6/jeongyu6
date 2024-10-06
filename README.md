@@ -1,10 +1,10 @@
 👧🏻About Me
 ====================================================================================================================================
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeong Yuseon
+👋 Hi! My name is Jeong Yuseon
 
-🎓I am a second-year Software Engineering Specialist, Math Major and Statistics at University of Toronto passionate in the field of Software Engineering, Data Science and Machine Learning 
+🎓I am a second-year Software Engineering Specialist, Math Major and Statistics Minor at University of Toronto passionate in the field of Software Engineering, Data Science and Machine Learning 
 
-🧐I am seeking a 4-12 month Winter 2025 Co-op internship in Software Engineering or Data Science and Machine Learning
+🧐I am seeking a 4-12 month Winter 2025 Co-op internship in Software Engineering or Data Science and Machine Learning 
 
 💻 I am familiar with languages of C, C++, Java, Python and Latex. The tools I use are Wing101, Eclipse and Visual Studio, Github 📉 I have experiences in Natural Language Processing, project brainstorming and implementation through my role as a Research Assistant and Developer 
 
