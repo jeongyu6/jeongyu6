@@ -15,7 +15,9 @@
 
 💻Skills
 ====================================================================================================================================
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-2023"><img alt="Static Badge" src="https://img.shields.io/badge/C-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-2023"><img alt="Static Badge" src="https://img.shields.io/badge/C-red">       <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-blue">    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-blue">
+
+
 
 
 
